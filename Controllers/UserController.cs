@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShoppingCartAPI.Models;
-using ShoppingCartAPI.ResponseModels;
 
 namespace ShoppingCartAPI.Controllers
 {
@@ -10,6 +9,7 @@ namespace ShoppingCartAPI.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+
 
         private readonly AppDbContext _context;
 

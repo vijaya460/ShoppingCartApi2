@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShoppingCartAPI.Models;
-using ShoppingCartAPI.ResponseModels;
 
 namespace ShoppingCartAPI.Controllers
 {
@@ -33,7 +32,7 @@ namespace ShoppingCartAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<ProductResponse>> GetProduct(int id)
+        public async Task<ActionResult<Product>> GetProduct(int id)
         {
             var product = await _context.Product.FindAsync(id);
             if (product == null)
