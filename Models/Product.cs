@@ -6,7 +6,7 @@ namespace ShoppingCartAPI.Models
     {
 
         [Key]
-        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+        [JsonIgnore]
         public int ProductId { get; set; }
         [Required]
         public string Name { get; set; }
@@ -17,4 +17,6 @@ namespace ShoppingCartAPI.Models
 
 
     }
+
+  
 }

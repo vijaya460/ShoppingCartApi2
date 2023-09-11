@@ -8,7 +8,7 @@ namespace ShoppingCartAPI.Models
     {
 
         [Key]
-        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+        [JsonIgnore]
         public int UserId { get; set; }
         [Required]
         public string Name { get; set; }
@@ -16,4 +16,6 @@ namespace ShoppingCartAPI.Models
         public string PhoneNumber { get; set; }
 
     }
+
+    
 }

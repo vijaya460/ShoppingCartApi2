@@ -13,7 +13,6 @@ namespace ShoppingCartAPI
 
         public DbSet<User> Users { get; set; }
         public DbSet<Product> Product { get; set; }
-        public DbSet<Cart> carts { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
 
 

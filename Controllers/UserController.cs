@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShoppingCartAPI.Models;
+using ShoppingCartAPI.ResponseModels;
 
 namespace ShoppingCartAPI.Controllers
 {
@@ -18,11 +19,11 @@ namespace ShoppingCartAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<User>> AddUser([FromBody]User user)
+        public async Task<ActionResult<User>> AddUser([FromBody] User user)
         {
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(GetUser), new { id = user.UserId }, user);
+            return CreatedAtAction(nameof(GetUser), new { id = user.UserId }, new { UserId = user.UserId, Name = user.Name, PhoneNumber = user.PhoneNumber });
         }
 
         [HttpGet]
