@@ -1,7 +1,6 @@
 ﻿
 namespace ShoppingCartAPI.Models
 {
-
     public class Cart
     {
         public Cart()
@@ -10,9 +9,9 @@ namespace ShoppingCartAPI.Models
 
             Products = new List<Product>();
         }
-        
-        public  User User { get; set; }
 
-        public  List<Product> Products { get; set; }
+        public User User { get; set; }
+
+        public List<Product> Products { get; set; }
     }
 }

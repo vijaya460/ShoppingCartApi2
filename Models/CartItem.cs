@@ -7,7 +7,6 @@ namespace ShoppingCartAPI.Models
     public class CartItem
     {
 
-
         [Key]
         [JsonIgnore]
         public int CartItemId { get; set; }

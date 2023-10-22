@@ -80,3 +80,159 @@ C:\Users\Suresh\source\repos\ShoppingCartAPI\obj\Debug\net6.0\refint\ShoppingCar
 C:\Users\Suresh\source\repos\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.pdb
 C:\Users\Suresh\source\repos\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.genruntimeconfig.cache
 C:\Users\Suresh\source\repos\ShoppingCartAPI\obj\Debug\net6.0\ref\ShoppingCartAPI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\appsettings.json
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.exe
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.deps.json
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.runtimeconfig.json
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.pdb
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Vijay Task\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.AssemblyReference.cache
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.AssemblyInfoInputs.cache
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.AssemblyInfo.cs
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.CoreCompileInputs.cache
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\scopedcss\bundle\ShoppingCartAPI.styles.css
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.CopyComplete
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.dll
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\refint\ShoppingCartAPI.dll
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.pdb
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.genruntimeconfig.cache
+D:\Vijay Task\ShoppingCartAPI\obj\Debug\net6.0\ref\ShoppingCartAPI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.exe
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.deps.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.runtimeconfig.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\ShoppingCartAPI.pdb
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.AssemblyReference.cache
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.AssemblyInfoInputs.cache
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.AssemblyInfo.cs
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.CoreCompileInputs.cache
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\scopedcss\bundle\ShoppingCartAPI.styles.css
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.csproj.CopyComplete
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\refint\ShoppingCartAPI.dll
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.pdb
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ShoppingCartAPI.genruntimeconfig.cache
+C:\Users\VijayaBhaskar\source\repos\vijaya460\ShoppingCartApi\ShoppingCartAPI\obj\Debug\net6.0\ref\ShoppingCartAPI.dll

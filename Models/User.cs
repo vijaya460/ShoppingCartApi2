@@ -3,7 +3,6 @@ using System.Text.Json.Serialization;
 
 namespace ShoppingCartAPI.Models
 {
-
     public class User
     {
 
